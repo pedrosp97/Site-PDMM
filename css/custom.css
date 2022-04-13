@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+  h1{
+	  color:#0086DD;
+	  font-size: 2em;
+  }
+  h2{
+	  font-size:1.5em;
+  }
+  .btn-custom{
+	  background-color:#BE4477;
+	  border-color:#BE4477;
+  }
+  .btn-custom:hover{
+	  background-color:#D4CF29;
+	  border-color:#D4CF29;
+  }
+  .float-right{
+	  margin-left:1em;
+  }
